@@ -108,7 +108,7 @@ class Game {
 
 
  public static void main(String[] args) throws Exception {
-             Game G= new Game();
+             Game tic= new Game();
          }
  }
 
